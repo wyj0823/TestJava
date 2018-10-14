@@ -7,5 +7,6 @@ public class Main {
         System.out.println("wyj");
         System.out.println("hhhhhh");
         System.out.println("kkkkkk");
+        System.out.println("last");
     }
 }
